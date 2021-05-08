@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with God Chat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React Chat Application with clean UI.
 
 ## Available Scripts
 
